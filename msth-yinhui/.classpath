@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/myJar/zip4j_1.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/apache-ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/commons-compress-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/mysql-5.1.26.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/freemarker.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/javax.mail.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/myJar/commons-codec.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/fastjson-1.1.24.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/jsch-0.1.48.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/myJar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
